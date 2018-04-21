@@ -10,7 +10,7 @@ body {
   font-size: 50px
 }
 
-#download {
+.download p {
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
